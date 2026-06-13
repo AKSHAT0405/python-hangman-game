@@ -1,4 +1,4 @@
-from hangman import has_player_won,get_word_progress,get_help_letter,get_available_letters,choose_help
+from hangman import has_player_won,get_word_progress,get_help_letter,get_available_letters
 
 
 def test_has_player_won():
